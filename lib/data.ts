@@ -135,11 +135,11 @@ export const artists: Artist[] = [
   },
   {
     id: "7",
-    name: "Aumbra, Sage of Shadows",
+    name: "Aumbra, The Sage of Shadows",
     specialty: "Tarot Initiate & Subtle Energy Artist",
-    description: "I just work here.",
+    description: "Aumbra unravels the threads of destiny to reveal the path to the life that awaits you.",
     fullDescription:
-      "Aumbra, the Sage of Shadows, is a lifelong sorcerer of the unseen arts immersed in the world of subtle energies and divination. As a Reiki Master and intuitive energy worker, I specialize in subtle energy work, artfully channeling the ancient forces of healing to restore balance and harmony to my clients. Additionally, as an initiate of Tarot, I unravel the threads of destiny to reveal the path to the life that awaits you. My journey has been of hands-on experience weaving the potential of chaos into cosmic alignment with intuitive brilliance facilitating profound transformational experiences.",
+      "Aumbra, the Sage of Shadows, is a lifelong sorcerer of the unseen arts immersed in the world of subtle energies and divination. As a Reiki Master and intuitive energy worker, he specialize in subtle energy work, artfully channeling the ancient forces of insight to restore balance and harmony to his clients. His journey has been of hands-on experience weaving the potential of chaos into cosmic alignment with intuitive brilliance facilitating profound transformational experiences.",
     image: "/33.png?height=600&width=800",
     rating: 5,
     services: [
