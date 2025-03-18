@@ -135,7 +135,7 @@ export const artists: Artist[] = [
   },
   {
     id: "7",
-    name: "Aumbra, The Sage of Shadows",
+    name: "Aumbra, Sage of Shadows",
     specialty: "Tarot Initiate & Subtle Energy Artist",
     description: "I just work here.",
     fullDescription:
