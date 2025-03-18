@@ -23,7 +23,7 @@ export const artists: Artist[] = [
       "A scribe who deciphers scrolls written on the fabric of space time who masterfully guides healing energies from the source to bring balance and clarity.",
     fullDescription:
       "Victoria is a gifted Akashic Records reader and Reiki practitioner, guiding seekers to uncover the hidden wisdom of their soul's journey. With a deep connection to the cosmic archives, she channels insights from the Akashic realm to help clients find clarity, purpose, and healing. Through Reiki, she harmonizes the body's energy, dissolving blockages and restoring balance. Whether you're seeking past-life revelations, soul guidance, or energetic renewal, Victoria offers a transformative experience that aligns mind, body, and spirit.",
-    image: "/Victoria.jpg?height=600&width=800",
+    image: "/victoria.jpg?height=600&width=800",
     rating: 5,
     services: ["Akashic Records Readings", "Reiki Energy Healing", "Intuitive Guidance", "Soul Path Exploration"],
     testimonials: [
