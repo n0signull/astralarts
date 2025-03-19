@@ -26,16 +26,7 @@ export const artists: Artist[] = [
     image: "/victoria.jpg?height=600&width=800",
     rating: 5,
     services: ["Akashic Records Readings", "Reiki Energy Healing", "Intuitive Guidance", "Soul Path Exploration"],
-    testimonials: [
-      {
-        author: "Victoria testimonial",
-        text: "After just one session with Orion, I felt a significant shift in my energy. The chronic pain I'd been experiencing for years has diminished considerably.",
-      },
-      {
-        author: "Nova T.",
-        text: "Orion's ability to connect with spirits brought me closure I never thought possible. His gift is truly remarkable.",
-      },
-    ],
+    testimonials: [],
     availability: "Saturday, March 29th, 1pm - 5pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
@@ -49,16 +40,7 @@ export const artists: Artist[] = [
     image: "/madison.png?height=600&width=800",
     rating: 5,
     services: ["Intuitive Tattoos", "Oracle Readings", "Ritual Ink Session", "Intuitive Guidance"],
-    testimonials: [
-      {
-        author: "Lyra K.",
-        text: "Nova helped me understand a recurring dream that had been troubling me for years. Her insights were profound and healing.",
-      },
-      {
-        author: "Phoenix R.",
-        text: "The accuracy of Nova's psychic reading was uncanny. She revealed aspects of my life that no one could have known.",
-      },
-    ],
+    testimonials: [],
     availability: "Saturday, March 29th, 1pm - 5pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
@@ -73,16 +55,7 @@ export const artists: Artist[] = [
     image: "/seema.jpeg?height=600&width=800",
     rating: 5,
     services: ["Mediumship Readings", "Reiki Energy Healing", "Spiritual Guidance", "Reiki Teacher"],
-    testimonials: [
-      {
-        author: "Stella V.",
-        text: "My tattoo from Phoenix is more than just art—it's a powerful talisman that I feel connected to on a deep level.",
-      },
-      {
-        author: "Cosmos D.",
-        text: "The experience of getting tattooed by Phoenix was meditative and transformative. The final piece exceeded all my expectations.",
-      },
-    ],
+    testimonials: [],
     availability: "Saturday, March 29th, 1pm - 5pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
@@ -96,16 +69,7 @@ export const artists: Artist[] = [
     image: "/kellie.jpg?height=600&width=800",
     rating: 5,
     services: ["Energy Clearing", "Intuitive Peer Support", "Energy Healing"],
-    testimonials: [
-      {
-        author: "Luna R.",
-        text: "The crystal grid Celeste created for my home has completely transformed the energy. I feel more peaceful and grounded every day.",
-      },
-      {
-        author: "Orion P.",
-        text: "Celeste's crystal healing session was a profound experience. I could actually feel the energy shifting and rebalancing throughout my body.",
-      },
-    ],
+    testimonials: [],
     availability: "Saturday, March 29th, 1pm - 5pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
@@ -120,16 +84,7 @@ export const artists: Artist[] = [
     image: "/tan3.png?height=600&width=800",
     rating: 5,
     services: ["Chakra Balancing", "Pendulum Readings", "Intuitive Messenger"],
-    testimonials: [
-      {
-        author: "Astra N.",
-        text: "Zephyr's sound bath ceremony was the most profound healing experience I've ever had. I felt waves of energy moving through my entire being.",
-      },
-      {
-        author: "Solaris K.",
-        text: "The channeled messages I received through Zephyr provided exactly the guidance I needed at this point in my spiritual journey.",
-      },
-    ],
+    testimonials: [],
     availability: "Saturday, March 29th, 1pm - 5pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
@@ -148,16 +103,7 @@ export const artists: Artist[] = [
       "Customized Subtle Energy Work",
       "Enhanced Subtle Energy Work",
     ],
-    testimonials: [
-      {
-        author: "Nebula D.",
-        text: "My Akashic Records reading with Aurora explained so many of the inexplicable feelings and patterns I've experienced throughout my life.",
-      },
-      {
-        author: "Vega T.",
-        text: "Understanding my soul contracts has been transformative. Aurora's reading gave me the courage to make significant life changes.",
-      },
-    ],
+    testimonials: [],
     availability: "Saturday, March 29th, 1pm - 5pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
@@ -172,16 +118,37 @@ export const artists: Artist[] = [
     image: "/keeya.jpg?height=600&width=800",
     rating: 5,
     services: ["Palm Readings", "Ecstatic Dance Facilitator", "Breathwork Facilitator"],
-    testimonials: [
-      {
-        author: "Eclipse M.",
-        text: "Working with Lyra has been the most challenging and rewarding experience of my life. I've found strength and wisdom in the parts of myself I once feared.",
-      },
-      {
-        author: "Umbra J.",
-        text: "Lyra's shadow work guidance helped me break free from lifelong patterns of self-sabotage. Her approach is both gentle and powerful.",
-      },
-    ],
+    testimonials: [],
+    availability: "Saturday, March 29th, 1pm - 5pm CST",
+    location: "184 Provencher Blvd. 2nd Floor",
+  },
+  {
+    id: "9",
+    name: "Double D, The Sonic Sorceress",
+    specialty: "The Guardian of the Vibe",
+    description:
+      "Double D answers the call of the music, delivering high-energy sets while protecting vibe seekers and keeping the tribe alive.",
+    fullDescription:
+      "When the music calls, Double D answers by bringing high-energy sets and unshakable vibes to every dancefloor she touches. As a true Guardian of the Vibe, she’s not just a DJ but a protector of those who seek vibes, ensuring every soul finds their rhythm in a safe and electrifying space. As the mastermind behind Festi Bestiez, she’s on a mission to create a community where the music lovers, the wanderers, and the vibe-chasers can dance freely, safely, and without limits. Whether she’s dropping pulse-racing beats or holding space for those in need, Double D keeps the energy flowing and the spirits high.",
+    image: "/justdd.jpg?height=600&width=800",
+    rating: 5,
+    services: ["Palm Readings", "Ecstatic Dance Facilitator", "Breathwork Facilitator"],
+    testimonials: [],
+    availability: "Saturday, March 29th, 1pm - 5pm CST",
+    location: "184 Provencher Blvd. 2nd Floor",
+  },
+  {
+    id: "10",
+    name: "Alex Kiss",
+    specialty: "Harmonic Alchemist",
+    description:
+      "Alex Kiss crafts hypnotic beats and ethereal melodies, channeling cosmic energy to guide dancers into transcendent flow.",
+    fullDescription:
+      "A master wielder of sound and architect of frequency, Alex Kiss weaves hypnotic beats and ethereal melodies into a transcendent sonic experience. With a deep understanding of rhythm and resonance, he channels cosmic energy through music, guiding dancers into altered states of movement and flow. Expect a journey through soundscapes that blur the line between reality and the astral plane. Whether summoning euphoric highs or grounding deep vibrations, Alex Kiss is here to awaken your spirit on the dancefloor.",
+    image: "/alexkiss.jpg?height=600&width=800",
+    rating: 5,
+    services: ["Palm Readings", "Ecstatic Dance Facilitator", "Breathwork Facilitator"],
+    testimonials: [],
     availability: "Saturday, March 29th, 1pm - 5pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
