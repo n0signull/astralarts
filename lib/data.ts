@@ -124,7 +124,7 @@ export const artists: Artist[] = [
   },
   {
     id: "9",
-    name: "Double D, The Sonic Sorceress",
+    name: "Double D, The Sorceress of Sound",
     specialty: "The Guardian of the Vibe",
     description:
       "Double D answers the call of the music, delivering high-energy sets while protecting vibe seekers and keeping the tribe alive.",
@@ -132,9 +132,9 @@ export const artists: Artist[] = [
       "When the music calls, Double D answers by bringing high-energy sets and unshakable vibes to every dancefloor she touches. As a true Guardian of the Vibe, she’s not just a DJ but a protector of those who seek vibes, ensuring every soul finds their rhythm in a safe and electrifying space. As the mastermind behind Festi Bestiez, she’s on a mission to create a community where the music lovers, the wanderers, and the vibe-chasers can dance freely, safely, and without limits. Whether she’s dropping pulse-racing beats or holding space for those in need, Double D keeps the energy flowing and the spirits high.",
     image: "/justdd.jpg?height=600&width=800",
     rating: 5,
-    services: ["Palm Readings", "Ecstatic Dance Facilitator", "Breathwork Facilitator"],
+    services: ["Harm Reduction", "DJ", "Digital Media Architect"],
     testimonials: [],
-    availability: "Saturday, March 29th, 1pm - 5pm CST",
+    availability: "Saturday, March 29th, 5pm - 9pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
   {
@@ -147,9 +147,9 @@ export const artists: Artist[] = [
       "A master wielder of sound and architect of frequency, Alex Kiss weaves hypnotic beats and ethereal melodies into a transcendent sonic experience. With a deep understanding of rhythm and resonance, he channels cosmic energy through music, guiding dancers into altered states of movement and flow. Expect a journey through soundscapes that blur the line between reality and the astral plane. Whether summoning euphoric highs or grounding deep vibrations, Alex Kiss is here to awaken your spirit on the dancefloor.",
     image: "/alexkiss.jpg?height=600&width=800",
     rating: 5,
-    services: ["Palm Readings", "Ecstatic Dance Facilitator", "Breathwork Facilitator"],
+    services: ["DJ", "Plants Trees"],
     testimonials: [],
-    availability: "Saturday, March 29th, 1pm - 5pm CST",
+    availability: "Saturday, March 29th, 5pm - 9pm CST",
     location: "184 Provencher Blvd. 2nd Floor",
   },
 ]
