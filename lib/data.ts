@@ -32,7 +32,7 @@ export const artists: Artist[] = [
   },
   {
     id: "3",
-    name: "Madison <br> The Mystic of the Inkborn",
+    name: "Madison \nMystic of the Inkborn",
     specialty: "Intuitive Tattoos & Oracle Readings",
     description: "Unravels the mysteries of your dreams and provides psychic insights into your subconscious.",
     fullDescription:
@@ -90,7 +90,7 @@ export const artists: Artist[] = [
   },
   {
     id: "7",
-    name: "Aumbra <br> The Sage of Shadows",
+    name: "Aumbra \nThe Sage of Shadows",
     specialty: "Tarot Initiate & Subtle Energy Artist",
     description: "Aumbra unravels the threads of destiny to reveal the path to the life that awaits you.",
     fullDescription:
@@ -124,7 +124,7 @@ export const artists: Artist[] = [
   },
   {
     id: "9",
-    name: "Double D <br> The Sorceress of Sound",
+    name: "Double D \nThe Sorceress of Sound",
     specialty: "Guardian of the Vibe",
     description:
       "Double D answers the call of the music, delivering high-energy sets while protecting vibe seekers and keeping the tribe alive.",
