@@ -145,7 +145,7 @@ export const artists: Artist[] = [
       "Alex Kiss crafts hypnotic beats and ethereal melodies, channeling cosmic energy to guide dancers into transcendent flow.",
     fullDescription:
       "A master wielder of sound and architect of frequency, Alex Kiss weaves hypnotic beats and ethereal melodies into a transcendent sonic experience. With a deep understanding of rhythm and resonance, he channels cosmic energy through music, guiding dancers into altered states of movement and flow. Expect a journey through soundscapes that blur the line between reality and the astral plane. Whether summoning euphoric highs or grounding deep vibrations, Alex Kiss is here to awaken your spirit on the dancefloor.",
-    image: "/alexkiss.jpg?height=600&width=800",
+    image: "/alexkiss1.jpg?height=600&width=800",
     rating: 5,
     services: ["DJ", "Plants Trees"],
     testimonials: [],
