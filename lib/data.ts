@@ -139,7 +139,7 @@ export const artists: Artist[] = [
   },
   {
     id: "10",
-    name: "Alex Kiss, Harmonic Alchemist",
+    name: "Alex Kiss, The Harmonic Alchemist",
     specialty: "Harmonic Alchemy",
     description:
       "Alex Kiss crafts hypnotic beats and ethereal melodies, channeling cosmic energy to guide dancers into transcendent flow.",
