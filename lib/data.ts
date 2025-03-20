@@ -124,7 +124,7 @@ export const artists: Artist[] = [
   },
   {
     id: "9",
-    name: "Double D, The Sorceress of Sound",
+    name: "Double D, Sorceress of Sound",
     specialty: "Guardian of the Vibe",
     description:
       "Double D answers the call of the music, delivering high-energy sets while protecting vibe seekers and keeping the tribe alive.",
@@ -139,7 +139,7 @@ export const artists: Artist[] = [
   },
   {
     id: "10",
-    name: "Alex Kiss, The Harmonic Alchemist",
+    name: "Alex Kiss, Harmonic Alchemist",
     specialty: "Harmonic Alchemy",
     description:
       "Alex Kiss crafts hypnotic beats and ethereal melodies, channeling cosmic energy to guide dancers into transcendent flow.",
