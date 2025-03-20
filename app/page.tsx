@@ -28,7 +28,7 @@ export default function AstralArtsPage() {
                 Ahoy, cosmic voyagers and seekers of the unknown! The next new moon beckons us to the stars and this
                 interstellar crew of mystics will unite to share their cosmic talents.
                 <span className="block mt-2"></span>
-                Navigate the astral seas with tarot, energy healing, and tattoos that channel the very energy of the
+                Navigate the astral seas with tarot, energy healing, and tattoos that channel the energy of the
                 cosmos.
                 <span className="block mt-2"></span>
                 Don't miss this rare opportunity to unlock the mysteries of the innerverse in an intimate setting.
