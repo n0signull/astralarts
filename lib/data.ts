@@ -129,7 +129,7 @@ export const artists: Artist[] = [
     description:
       "Double D answers the call of the music, delivering high-energy sets while protecting vibe seekers and keeping the tribe alive.",
     fullDescription:
-      "When the music calls, Double D answers by bringing high-energy sets and unshakable vibes to every dancefloor she touches. As a true Guardian of the Vibe, she’s not just a DJ but a protector of those who seek vibes, ensuring every soul finds their rhythm in a safe and electrifying space. As the mastermind behind Festi Bestiez, she’s on a mission to create a community where the music lovers, the wanderers, and the vibe-chasers can dance freely, safely, and without limits. Whether she’s dropping pulse-racing beats or holding space for those in need, Double D keeps the energy flowing and the spirits high.",
+      "When the crowd calls, Double D answers by bringing high-energy sets and unshakable vibes to every dancefloor she touches. As a true Guardian of the Vibe, she’s not just a DJ but a protector of those who seek vibes, ensuring every soul finds their rhythm in a safe and electrifying space. As the mastermind behind Festi Bestiez, she’s on a mission to create a community where the music lovers, the wanderers, and the vibe-chasers can dance freely, safely, and without limits. Whether she’s dropping pulse-racing beats or holding space for those in need, Double D keeps the energy flowing and the spirits high.",
     image: "/justdd2.jpg?height=600&width=800",
     rating: 5,
     services: ["Harm Reduction", "DJ", "Digital Media Architect"],
